@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <meta churset="utf-8">
+    <head>
+        <title>Aliança Estudantil</title>
+    </head>
+    <body>
+        <div class="menu">
+            <ul>
+                <li> <a href="renangremio">Início</a> </li>
+                <li> <a href="#">estatudo do gremio</a> </li>
+                <li> <a href="#">açao do gremio</a> </li>
+            </ul>
+        </div>
+        
+        <img src="alinçaestudantil.jpeg"height="500"width="1000">
+        <h1 id="titulo">Gremio 2023 Diretores</h1>
+        
+        <img src="renanr7.jpeg"height="250"width="250">
+        <P>Renan Roselio dos Santos</P>
+        <p>Idade:15</p>
+        <p>Serie:9ano C</p>
+        <p>cargo no gremio:Diretor Financeiro</p>
+        <p>Nome da chapa:Aliança Estudantil</p>
+   
+ 
+
+    </body>
+    <footer>
+        <h5>Dasdo de criador</h5>
+        <img id="imagem-footer" src="renanr7.jpeg"height="250"width="250">
+        <p>esse site foi criador por Renan Rosélio em abril de 2023
+     na casa dos meninos. </p>
+     
+     
+     E-mail:<a style="color:#556B2F" href="mailto:renan.saoluis.ronan.2007@gmail.com">renan.saoluis.ronan.2007@gmail.com</a></p>
+
+ 
+    
+    </footer>
+</html>
